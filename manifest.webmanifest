@@ -1,0 +1,17 @@
+{
+  "name": "Free Flex",
+  "short_name": "Free Flex",
+  "id": ".",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#0c1014",
+  "theme_color": "#0c1014",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
